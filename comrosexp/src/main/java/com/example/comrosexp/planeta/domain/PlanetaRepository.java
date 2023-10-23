@@ -1,4 +1,4 @@
-package com.example.backend.planeta.domain;
+package com.example.comrosexp.planeta.domain;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

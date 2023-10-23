@@ -1,13 +1,13 @@
-package com.example.backend.planeta.application;
+package com.example.comrosexp.planeta.application;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import com.example.backend.planeta.domain.Planeta;
-import com.example.backend.planeta.domain.PlanetaRepository;
+import com.example.comrosexp.planeta.domain.Planeta;
+import com.example.comrosexp.planeta.domain.PlanetaRepository;
 import java.util.List;
-import java.util.Optional;
+
 
 @RestController
 @RequestMapping("/planeta")

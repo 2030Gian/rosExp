@@ -1,10 +1,10 @@
-package com.example.rosexp;
+package com.example.comrosexp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RosexpApplicationTests {
+class ComrosexpApplicationTests {
 
 	@Test
 	void contextLoads() {
